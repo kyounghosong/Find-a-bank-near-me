@@ -9,3 +9,14 @@ KOREA_IT_아카데미 : 국비 교육 과정
 
 ★ 활용장비 및 제료
 - SpringBoot , JPA, React, Oracle DB, NaverAPI, 공공데이터 API
+
+★ flowchart
+![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/3cec566b-1e61-4d7d-8d56-2b051a0c3f21)
+
+★ DB table
+![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/4edf7b85-eefd-4f99-8fbd-4dd060f06b1c)
+
+
+
+
+
