@@ -30,7 +30,7 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=ae
 - 메인화면
 ![image](https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/ed23e06b-2eb4-4a46-8e6f-464bfe0dc346)
 
--로그인
+- 로그인
 <img width="688" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/04a1cce8-c2f7-42c4-bead-fc499212eb6b">
 
 - 회원가입
