@@ -19,6 +19,7 @@ KOREA_IT_아카데미 : 국비 교육 과정
 https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=aeb2aa4dc4f84b98b93ecec8b6e28a32&pm=c
 
 
+
 ★ flowchart
 ![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/3cec566b-1e61-4d7d-8d56-2b051a0c3f21)
 
@@ -26,6 +27,25 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=ae
 ![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/4edf7b85-eefd-4f99-8fbd-4dd060f06b1c)
 
 ★ 화면 
+- 메인화면
+![image](https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/ed23e06b-2eb4-4a46-8e6f-464bfe0dc346)
 
+-로그인
+<img width="688" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/04a1cce8-c2f7-42c4-bead-fc499212eb6b">
+
+- 회원가입
+<img width="688" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/149ab032-db07-4f70-8d42-4dc9af03cbb0">
+
+- 공지사항 % 상세페이지
+<img width="775" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/b62a067b-b5ea-4be1-8397-9736308bb456">
+
+- Q&A
+<img width="737" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/5f60cf46-7692-454d-ae89-50ed00368192">
+
+- 은행 API
+<img width="764" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/8f592380-07ce-4346-9912-f19a05252816">
+
+- 주차장 API
+<img width="783" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/707d1d86-7fc1-4ab1-8949-92457dad8e28">
 
 
