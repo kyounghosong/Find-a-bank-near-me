@@ -11,6 +11,13 @@ KOREA_IT_아카데미 : 국비 교육 과정
 - SpringBoot , JPA, React, Oracle DB, NaverAPI, 공공데이터 API
   ![image](https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/02a87ef3-9987-4fb7-8e50-e41ccfb96b91)
 
+★ 내가 한 역할
+→ AWS, 공지사항, 자유게시판
+
+🔥 제가 한 부분과 프로젝트 내용은 아래에 있는 notion 링크를 통해 더 자세히 볼 수 있습니다
+
+https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=aeb2aa4dc4f84b98b93ecec8b6e28a32&pm=c
+
 
 ★ flowchart
 ![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/3cec566b-1e61-4d7d-8d56-2b051a0c3f21)
@@ -18,7 +25,7 @@ KOREA_IT_아카데미 : 국비 교육 과정
 ★ DB table
 ![Untitled](https://github.com/kyoungho95/Find-a-bank-near-me/assets/151596220/4edf7b85-eefd-4f99-8fbd-4dd060f06b1c)
 
-
+★ 화면 
 
 
 
