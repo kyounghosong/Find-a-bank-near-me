@@ -31,7 +31,7 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=ae
 ![image](https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/ed23e06b-2eb4-4a46-8e6f-464bfe0dc346)
 
 - 로그인
-<img width="688" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/04a1cce8-c2f7-42c4-bead-fc499212eb6b">
+<img width="703" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/b6853f39-664f-42eb-8bb5-2b2b8a93ec35">
 
 - 회원가입
 <img width="688" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/149ab032-db07-4f70-8d42-4dc9af03cbb0">
