@@ -43,6 +43,9 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=ae
 - Q&A
 <img width="737" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/5f60cf46-7692-454d-ae89-50ed00368192">
 
+- 댓글
+<img width="761" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/2755343b-aa92-4002-9b00-8345ec5f2dca">
+
 - 은행 API
 <img width="764" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/8f592380-07ce-4346-9912-f19a05252816">
 
