@@ -18,6 +18,8 @@ KOREA_IT_아카데미 : 국비 교육 과정
 
 https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=aeb2aa4dc4f84b98b93ecec8b6e28a32&pm=c
 
+★ 자체평가
+이번 프로젝트를 진행하면서 1차프로젝트 때 못해 보던 AWS를 해보면서 새로운 경험도해보고 좋았지만. security , 공공 데이터를 활용해 보는 코드를 직접 하지 못한 아쉬움이 있습니다.  공부를 해나가면서  이번에 하지 못한 security 와 공공 데이터를 시도해보려고합니다
 
 
 ★ flowchart
@@ -48,8 +50,10 @@ https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?p=ae
 
 - 은행 API
 <img width="764" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/8f592380-07ce-4346-9912-f19a05252816">
+<img width="768" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/54f8687f-e734-474c-af80-179b6ca85eb8">
 
 - 주차장 API
-<img width="783" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/707d1d86-7fc1-4ab1-8949-92457dad8e28">
+<img width="793" alt="image" src="https://github.com/kyounghosong/Find-a-bank-near-me/assets/151596220/4365e1e8-0bd0-4da3-b96d-3c6171288189">
+
 
 
